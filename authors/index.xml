@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Rene Knaebel</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Rene Knaebel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>Hi! I have a B.Sc. in Business Informatics and an M.Sc. in Cognitive Systems, both from the University of Potsdam. My fascination for machine learning started growing during my master&amp;rsquo;s program. There I did several projects applied to natural sciences and linguistics. In my final research project, I got in touch with deep reinforcement learning in language-based games. For my master thesis, I applied neural networks for malware detection with the main aspect of investigating the influence of learning multiple tasks at once.</description>
+    </item>
+    
+  </channel>
+</rss>
